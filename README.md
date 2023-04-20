@@ -1,8 +1,13 @@
-### Hi there 👋
+### 👋 Hi there
 
 - 🔭 I’m currently working on **Eurorack Modules**
 - 🌱 I’m currently working on **Machine Learning Tutorial**
 - 👯 I’m looking to collaborate on **Music Production**
+
+
+### :eyes: Visitor count 
+<p align="left"><img src="https://profile-counter.glitch.me/{azerty-labs}/count.svg" alt="azerty-labs :: Visitor's Count" /></p>
+
 
 <!--
 **azerty-labs/azerty-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
