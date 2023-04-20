@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **Eurorack Modules**
+- 🌱 I’m currently working on **Machine Learning Tutorial**
+- 👯 I’m looking to collaborate on **Music Production**
+
 <!--
 **azerty-labs/azerty-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
