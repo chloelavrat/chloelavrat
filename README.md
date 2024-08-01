@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi! I'm **Chloé Lavrat** a Machine Learning Researcher specializing in signal processing and AI for audio. I use a multidisciplinary approach to solve complex problems and enjoy collaborating on diverse scientific challenges.
+Hi, I'm **Chloé Lavrat**, a machine learning researcher working in signal processing and AI for audio. I use a multidisciplinary approach to solve complex problems and enjoy collaborating on diverse scientific challenges.
 
 - 🔭 I’m currently working on **Refactoring my directorys**
 - 🌱 I’m currently learning on **How to go beyond LLM**
