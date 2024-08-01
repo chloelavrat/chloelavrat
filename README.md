@@ -1,7 +1,9 @@
 ### 👋 Hi there
 
-- 🔭 I’m currently working on **Eurorack Modules**
-- 🌱 I’m currently working on **Machine Learning Tutorial**
+Hi! I'm **Chloé Lavrat** a Machine Learning Researcher specializing in signal processing and AI for audio. I use a multidisciplinary approach to solve complex problems and enjoy collaborating on diverse scientific challenges.
+
+- 🔭 I’m currently working on **Refactoring my directorys**
+- 🌱 I’m currently learning on **How to go beyond LLM**
 - 👯 I’m looking to collaborate on **Music Production**
 
 
