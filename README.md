@@ -1,27 +1,14 @@
-### 👋 Hi there
+# Hi there, I'm Chloé Lavrat! 👋
+### **AI/ML Engineer & Data Scientist | LLM & Audio Expert | CTO & Co-founder at 2AM**  
 
-Hi, I'm **Chloé Lavrat**, a machine learning researcher working in signal processing and AI for audio. I use a multidisciplinary approach to solve complex problems and enjoy collaborating on diverse scientific challenges.
+I specialize in **AI, machine learning, and signal processing**, with a focus on **LLMs, audio intelligence, and AI-driven innovation**. As the **CTO & Co-founder of 2AM**, I build **cutting-edge AI agents** and explore the intersection of **technology, music, and creativity**.  
 
-- 🔭 I’m currently working on **Refactoring my directorys**
-- 🌱 I’m currently learning on **How to go beyond LLM**
-- 👯 I’m looking to collaborate on **Music Production**
+## What I'm Working On 🔔
+- 🎵 **AI-driven audio intelligence** – transforming sound into meaningful insights  
+- 🤖 **LLM-powered AI agents** – creating intelligent assistants for automation & creativity
+- 🔬 **Pushing AI beyond LLMs** – innovating in generative AI, music tech, and human-AI interaction  
 
-
-### :eyes: Visitor count 
-<p align="left"><img src="https://profile-counter.glitch.me/{azerty-labs}/count.svg" alt="azerty-labs :: Visitor's Count" /></p>
-
-
-<!--
-**azerty-labs/azerty-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Visitor Count 👀
+<p align="left">
+  <img src="https://profile-counter.glitch.me/{azerty-labs}/count.svg" alt="azerty-labs :: Visitor's Count" />
+</p>
