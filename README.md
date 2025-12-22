@@ -1,10 +1,15 @@
-# Hi there, I'm Chloé Lavrat! 👋
-### **AI/ML Engineer & Data Scientist | LLM & Audio Expert | CTO & Co-founder at 2AM**  
+# Hi, I’m Chloé Lavrat 👋  
+**CTO & Co-founder @ 2AM**  
+AI/ML Engineer · LLM & Audio Systems · Applied Research
 
-I specialize in **AI, machine learning, and signal processing**, with a focus on **LLMs, audio intelligence, and AI-driven innovation**. As the **CTO & Co-founder of 2AM**, I build **cutting-edge AI agents** and explore the intersection of **technology, music, and creativity**.  
+I design and scale **state-of-the-art AI systems**, with a strong focus on **LLMs, audio intelligence, and multi-agent architectures**.  
+Background across **Sony CSL**, **IRCAM / IRCAM Amplify**, and **Radio France**, where I worked on advanced research and production-grade systems at the intersection of **signal processing, machine learning, and creative technologies**.
 
-## What I'm Working On 🔔
-- 🎵 **AI-driven audio intelligence** – transforming sound into meaningful insights  
-- 🤖 **LLM-powered AI agents** – creating intelligent assistants for automation & creativity
-- 🔬 **Pushing AI beyond LLMs** – innovating in generative AI, music tech, and human-AI interaction  
+As CTO of **2AM**, I’ve architected and built most of the AI stack end-to-end — from models to infrastructure — turning cutting-edge research into reliable, scalable products.
 
+## What I’m Working On 🔔
+- 🚀 **Scaling 2AM** — production AI agents for live & music industries  
+- 🤖 **LLM & multi-agent systems** — robust, cost-aware, real-world deployments  
+- 🎵 **Audio intelligence** — deep learning + signal processing  
+- 🧠 **Making art with science** — where research, systems, and creativity collide
+- 
