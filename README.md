@@ -12,4 +12,3 @@ As CTO of **2AM**, I’ve architected and built most of the AI stack end-to-end 
 - 🤖 **LLM & multi-agent systems** — robust, cost-aware, real-world deployments  
 - 🎵 **Audio intelligence** — deep learning + signal processing  
 - 🧠 **Making art with science** — where research, systems, and creativity collide
-- 
